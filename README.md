@@ -3,6 +3,13 @@ libGDX-with-cucumber
 
 A raw libGDX maven project with cucumber set up
 
+for information, help, documentation and the latest version of libGDX please visit their awesome homepage:
+http://www.libgdx.com
+
+You can take everything I created and do what it what you like to.
+For further information take a loot at the licenses of the projects this is built on. 
+(libGDX is under Apache 2.0)
+
 <h2> Steps to Take </h2>
 
 1. Fork / Copy it
