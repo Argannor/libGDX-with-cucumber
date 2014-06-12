@@ -10,6 +10,9 @@ You can take everything I created and do what it what you like to.
 For further information take a loot at the licenses of the projects this is built on. 
 (libGDX is under Apache 2.0)
 
+<h2>Requirements</h2>
+The only thing you'll need is maven 3.x
+
 <h2> Steps to Take </h2>
 
 1. Fork / Copy it
